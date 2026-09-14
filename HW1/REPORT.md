@@ -28,8 +28,7 @@ LeNet 在 CIFAR-10 上训练 10 个 epoch，学习率为 0.001。以下为三组
 | 0.90 | 2.296 | 1.283 |
 | 0.98 | 2.058 | 0.878 |
 
-![各 batch 训练损失](https://raw.githubusercontent.com/bianwoyali-design/Img/main/Img/W%26B%20Chart%202026_9_14%2020_41_08.svg)
-![各 epoch 平均训练损失](https://raw.githubusercontent.com/bianwoyali-design/Img/main/Img/W%26B%20Chart%202026_9_14%2020_41_21.svg)
+![](https://raw.githubusercontent.com/bianwoyali-design/Img/main/Img/20260914205503357.png)
 
 
 [W&B 项目](https://wandb.ai/bianwoyali-peking-university/aipro-hw1-cifar10)；正式 run ID 依次为 `t3f9f30e`（0.50）、`5nhpm5vp`（0.90）、`f9xeyh2d`（0.98）。
